@@ -90,3 +90,5 @@ tùy theo nhu cầu sử dụng_
 
 - specific steps:
 
+[reference](https://github.com/demanejar/word-count-hadoop)
+
