@@ -77,9 +77,12 @@ tùy theo nhu cầu sử dụng_
 - input file:
   - nội dung là các từ: "Dear, Bear, River, Car, Car, River, Deer, Car, Bear"
   
-- requirement: đến tần xuất các từ sử dụng MapReduce
+- requirement: đếm tần xuất các từ sử dụng MapReduce
   
 - idea: tìm các từ duy nhất và đếm số lần xuất hiện các từ này
+
+- **steps**:
+  - 
   
 #### general steps:
 1. **splitting**: chia đầu vào 
